@@ -2,7 +2,7 @@
   "version": 2,
   "functions": {
     "myFunction": {
-      "maxDuration": 30 // set the timeout to 30 seconds
+      "maxDuration": 30
     }
   },
   "builds": [
